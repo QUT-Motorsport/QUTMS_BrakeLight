@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [QUTMS-BrakeLight.PrjPcb]
+   Generated File[QUTMS-BrakeLight-B00.TXT]
+   Generated File[QUTMS-BrakeLight-B00.LDP]
+   Generated File[QUTMS-BrakeLight-B00.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:28:04 PM On 28/07/2020
