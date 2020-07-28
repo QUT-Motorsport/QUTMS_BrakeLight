@@ -375,7 +375,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HWMRVBIF
 
 [Document21]
 DocumentPath=QUTMS_MicrofitLibrary.PcbLib
@@ -460,7 +460,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VQWHGEQN
 
 [Document26]
 DocumentPath=QUTMS_PCBLibrary.SchLib
@@ -477,7 +477,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XMFVKUQS
 
 [Document27]
 DocumentPath=QUTMS_PowerSupplyLibrary.PcbLib
@@ -494,7 +494,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PGSSCGAS
 
 [Document28]
 DocumentPath=QUTMS_PowerSupplyLibrary.SchLib
@@ -750,6 +750,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NLBNFLNK
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for QUTMS-BrakeLight\Design Rule Check - QUTMS-BrakeLight-B00.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
