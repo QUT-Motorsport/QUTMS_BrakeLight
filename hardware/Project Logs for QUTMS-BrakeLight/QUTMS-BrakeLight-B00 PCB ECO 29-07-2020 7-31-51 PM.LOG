@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=VCC Pin=R1A-1
+Removed Pin From Net: NetName=NetDS1A_A Pin=R1A-2
+Removed Pin From Net: NetName=VCC Pin=R1B-1
+Removed Pin From Net: NetName=NetDS1B_A Pin=R1B-2
+Change Component Comment : Designator=CsA Old Comment=4n7 New Comment=4n7 25V 5% X7R 0603
+Change Component Comment : Designator=CsB Old Comment=4n7 New Comment=4n7 25V 5% X7R 0603
+Change Component Comment : Designator=C1A Old Comment=10uF X7R New Comment=10uF 50V 5% X7R 0603
+Change Component Comment : Designator=C1B Old Comment=10uF X7R New Comment=10uF 50V 5% X7R 0603
+Change Component Description : Designator=U1A Old Description=AL8860WT-7 -  LED Driver, 1 Output, Buck (Step Down), 4.5 V to 40 V in, 1 MHz switch, PWM, 40V/1 A out, TSOT-25-5 New Description=LED Driver, 1 Output, Buck (Step Down), 4.5 V to 40 V in, 1 MHz switch, PWM, 40V/1 A out, TSOT-25-5
+Change Component Description : Designator=U1B Old Description=AL8860WT-7 -  LED Driver, 1 Output, Buck (Step Down), 4.5 V to 40 V in, 1 MHz switch, PWM, 40V/1 A out, TSOT-25-5 New Description=LED Driver, 1 Output, Buck (Step Down), 4.5 V to 40 V in, 1 MHz switch, PWM, 40V/1 A out, TSOT-25-5
+Change Component Description : Designator=DS1A Old Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A New Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A 
+Change Component Description : Designator=DS1B Old Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A New Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A 
+Change Component Description : Designator=DS2A Old Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A New Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A 
+Change Component Description : Designator=DS2B Old Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A New Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A 
+Change Component Description : Designator=DS3A Old Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A New Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A 
+Change Component Description : Designator=DS3B Old Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A New Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A 
+Change Component Description : Designator=DS4A Old Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A New Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A 
+Change Component Description : Designator=DS4B Old Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A New Description=LED, Cree XLamp XP-E2 Series, Red, 630 nm, 130 °, 62 lm, 1 A 
+Change Component Description : Designator=D1A Old Description=Schottky Rectifier, 20 V, 500 mA, Single, SOD-323F, 2 Pins, 390 mV New Description=Diode Schottky, 20 V, 500 mA, Single, SOD-323F, 2 Pins, 390 mV
+Change Component Description : Designator=D1B Old Description=Schottky Rectifier, 20 V, 500 mA, Single, SOD-323F, 2 Pins, 390 mV New Description=Diode Schottky, 20 V, 500 mA, Single, SOD-323F, 2 Pins, 390 mV
+Added Component: Designator=R1A(Res_ThinFilm_0603)
+Added Component: Designator=R1B(Res_ThinFilm_0603)
+Added Pin To Net: NetName=VCC Pin=R1A-1
+Added Pin To Net: NetName=NetDS1A_A Pin=R1A-2
+Added Pin To Net: NetName=VCC Pin=R1B-1
+Added Pin To Net: NetName=NetDS1B_A Pin=R1B-2
+Added Room: Name=LED ARRAYA
+Added Room: Name=LED ARRAYB
+Added Room: Name=LED DRIVERA
+Added Room: Name=LED DRIVERB
+Added Room: Name=QUTMS-BrakeLight-S00

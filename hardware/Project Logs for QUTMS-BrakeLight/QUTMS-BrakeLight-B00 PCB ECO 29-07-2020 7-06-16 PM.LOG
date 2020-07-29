@@ -1,0 +1,12 @@
+Change Component Comment : Designator=R1A Old Comment=0R27 1% New Comment=0R27 1% 0603
+Change Component Comment : Designator=R1B Old Comment=0R27 1% New Comment=0R27 1% 0603
+Change Component Comment : Designator=CsA Old Comment=4n7 New Comment=4n7 25V 5% X7R 0603
+Change Component Comment : Designator=CsB Old Comment=4n7 New Comment=4n7 25V 5% X7R 0603
+Change Component Comment : Designator=C1A Old Comment=10uF X7R New Comment=10uF 50V 5% X7R 0603
+Change Component Comment : Designator=C1B Old Comment=10uF X7R New Comment=10uF 50V 5% X7R 0603
+Change Component Comment : Designator=J1 Old Comment=Power Input New Comment=Jumper 2Way Large Solderable
+Added Room: Name=LED ARRAYA
+Added Room: Name=LED ARRAYB
+Added Room: Name=LED DRIVERA
+Added Room: Name=LED DRIVERB
+Added Room: Name=QUTMS-BrakeLight-S00

@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=SWA Pin=L1A-1
+Removed Pin From Net: NetName=NetDS4A_K Pin=L1A-2
+Removed Pin From Net: NetName=SWB Pin=L1B-1
+Removed Pin From Net: NetName=NetDS4B_K Pin=L1B-2
+Change Component Comment : Designator=R1A Old Comment=0R27 1% 0603 New Comment=0R27 1%
+Change Component Comment : Designator=R1B Old Comment=0R27 1% 0603 New Comment=0R27 1%
+Change Component Comment : Designator=CsA Old Comment=4n7 25V 5% X7R 0603 New Comment=4n7
+Change Component Comment : Designator=CsB Old Comment=4n7 25V 5% X7R 0603 New Comment=4n7
+Change Component Comment : Designator=C1A Old Comment=10uF 50V 5% X7R 0603 New Comment=10uF X7R
+Change Component Comment : Designator=C1B Old Comment=10uF 50V 5% X7R 0603 New Comment=10uF X7R
+Change Component Comment : Designator=DS1A Old Comment=Cree XLamp XP-E2 Red New Comment=XPEBRD-L1-0000-00601
+Change Component Comment : Designator=DS1B Old Comment=Cree XLamp XP-E2 Red New Comment=XPEBRD-L1-0000-00601
+Change Component Comment : Designator=DS2A Old Comment=Cree XLamp XP-E2 Red New Comment=XPEBRD-L1-0000-00601
+Change Component Comment : Designator=DS2B Old Comment=Cree XLamp XP-E2 Red New Comment=XPEBRD-L1-0000-00601
+Change Component Comment : Designator=DS3A Old Comment=Cree XLamp XP-E2 Red New Comment=XPEBRD-L1-0000-00601
+Change Component Comment : Designator=DS3B Old Comment=Cree XLamp XP-E2 Red New Comment=XPEBRD-L1-0000-00601
+Change Component Comment : Designator=DS4A Old Comment=Cree XLamp XP-E2 Red New Comment=XPEBRD-L1-0000-00601
+Change Component Comment : Designator=DS4B Old Comment=Cree XLamp XP-E2 Red New Comment=XPEBRD-L1-0000-00601
+Change Component Comment : Designator=L1A Old Comment=SRN6045 New Comment=SRN6045-101M
+Change Component Comment : Designator=L1B Old Comment=SRN6045 New Comment=SRN6045-101M
+Added Pin To Net: NetName=NetDS4A_K Pin=L1A-1
+Added Pin To Net: NetName=SWA Pin=L1A-2
+Added Pin To Net: NetName=NetDS4B_K Pin=L1B-1
+Added Pin To Net: NetName=SWB Pin=L1B-2
+Added Room: Name=LED ARRAYA
+Added Room: Name=LED ARRAYB
+Added Room: Name=LED DRIVERA
+Added Room: Name=LED DRIVERB
+Added Room: Name=QUTMS-BrakeLight-S00
